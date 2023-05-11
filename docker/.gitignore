@@ -1,0 +1,4 @@
+/logs/nginx/*.log
+/mariadb/data/*
+/redis/data/*
+!.keepme

@@ -1,0 +1,349 @@
+[11-Apr-2020 17:22:29 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:29 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:29 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:29 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:29 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:29 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:29 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:29 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:29 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:30 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:30 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:30 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:30 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:30 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:30 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:22:37 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:25:53 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:31:38 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:31:38 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:36:34 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:36:34 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:36:40 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:36:40 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[11-Apr-2020 17:37:01 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Foundation\Exceptions\Handler::report(Throwable $e) in /var/www/html/app/Exceptions/Handler.php on line 37
+[11-Apr-2020 17:37:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(794): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(801): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /var/www/html/vendor/lar in /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[28-Jun-2020 22:37:33 America/Sao_Paulo] PHP Fatal error:  Unknown: Failed opening required '/var/www/html/public/flegui/index.php' (include_path='.:/usr/local/lib/php') in Unknown on line 0
+[11-Jul-2020 20:07:52 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required 'slide-header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/anjodoce/site_php/index.php on line 32
+[11-Jul-2020 20:08:36 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required 'slide-header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/anjodoce/site_php/index.php on line 32
+[11-Jul-2020 20:09:37 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required 'slide-header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/anjodoce/site_php/index.php on line 32
+[11-Jul-2020 20:09:38 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required 'slide-header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/anjodoce/site_php/index.php on line 32
+[11-Jul-2020 20:12:42 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required 'slide-header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/anjodoce/site_php/index.php on line 40
+[11-Jul-2020 20:28:00 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required 'culture.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/anjodoce/site_php/index.php on line 42
